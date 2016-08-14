@@ -1,0 +1,7 @@
+[package]
+authors = ["Triagle <local@developer.com>"]
+name = "pomodoro"
+version = "0.1.0"
+
+[dependencies]
+argparse = "0.2.1"
